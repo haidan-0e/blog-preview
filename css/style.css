@@ -12,7 +12,8 @@
 @supports (font-variation-settings: normal) {
   @font-face {
     font-family: "Figtree";
-    src: url("/main/assets/fonts/Figtree-VariableFont_wght.ttf") format("truetype");
+    src: url("main/assets/fonts/Figtree-VariableFont_wght.ttf")
+      format("truetype");
     font-weight: 100 1000;
   }
 }
