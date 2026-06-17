@@ -4,16 +4,15 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [[#Overview]]
-  - [[#The challenge]]
-  - [[#Screenshot]]
-  - [[#Links]]
-- [[#My process]]
-  - [[#Built with]]
-  - [[#Built with]]
-  - [[#Continued development]]
-  - [[#AI Collaboration]]
-- [[#Author]]
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my%20process)
+  - [Built with](#built%20with)
+  - [What I learned](#what%20i%20learned)
+  - [Continued development](#continued%20development)
+  - [AI Collaboration](#ai%20collaboration)
+- [Author](#author)
 
 ## Overview
 This project serves as a solution to the Blog Preview challenge from Frontend Mentor. The objective is to refine the ability to build responsive components, with a focus on achieving high-fidelity design precision.
@@ -28,8 +27,8 @@ This project serves as a solution to the Blog Preview challenge from Frontend Me
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live Site URL](https://your-live-site-url.com)
+- [Solution URL](https://github.com/haidan-0e/blog-preview/blob/main/README.md)
+- [Live Site URL](https://haidan-0e.github.io/blog-preview/)
 
 ## My process
 
